@@ -3,4 +3,8 @@
 
 本工程为Eureka作为Prometheus的的服务发现系统的最佳实践。
 
-# 
+# 业务应用
+
+文件夹 order-service-eureka-client 是一个业务应用的例子，是被监控的对象。
+
+
